@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Windows
+Thumbs.db
+
+# Node / misc
+node_modules/
+
+.vercel
+deploy.sh
+
+
+ICSC21
+ICSC22
+ICSC23
