@@ -67,17 +67,17 @@
                                 </td>
                                 <td> INR 8000</td>
                                 <td> INR 10000</td>
-                                <td> USD 280</td>
+                                <td> USD 300</td>
                                 <td>USD 350</td>
                             </tr>
                             <tr>
                                 <td class="font-bold">
                                     Students
                                 </td>
-                                <td> INR 4500</td>
                                 <td> INR 5500</td>
-                                <td> USD 140</td>
-                                <td>USD 175</td>
+                                <td> INR 6500</td>
+                                <td> -</td>
+                                <td>-</td>
                             </tr>
 
                             <tr>
@@ -159,9 +159,9 @@
                                 <td class="font-bold">
                                     Industry
                                 </td>
-                                <td> INR 12000</td>
+                                <td> INR 11000</td>
                                 <td>
-                                    /
+                                    12000
                                 </td>
                                 <td>
                                     /
