@@ -54,7 +54,7 @@
             <ul class="bg-blue-600 p-2">
                 <li><a href="instruction.php">Instructions</a></li>
                 <li><a href="scope.php">Scope</a></li>
-                <li><a href="">Paper Submission</a></li>
+                <!-- <li><a href="">Paper Submission</a></li> -->
                 <li><a href="guidelines.php">Author guidelines</a></li>
             </ul>
         </li>
@@ -98,7 +98,7 @@
         <ul class="bg-blue-600 p-0 rounded-none z-50">
             <li class="text-xs font-bold uppercase"><a href="instruction.php">Instructions</a></li>
             <li class="text-xs font-bold uppercase"><a href="scope.php">Scope</a></li>
-            <li class="text-xs font-bold uppercase"><a href="">Paper Submission</a></li>
+           <!-- <li class="text-xs font-bold uppercase"><a href="">Paper Submission</a></li> -->
             <li class="text-xs font-bold uppercase"><a href="guidelines.php">Author guidelines</a></li>
         </ul>
     </li>

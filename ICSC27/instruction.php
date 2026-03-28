@@ -99,8 +99,7 @@
                 </div> -->
                 <div class="col-span-3 lg:col-span-2 py-5 text-justify">
                     <ol type="1">
-                        <li>1.Paper Formatting: Follow the formatting guidelines provided by the conference. Use the provided template or style file to ensure consistency.
-                            https://www.ieee.org/conferences/publishing/templates.html</li><br>
+                        <li>1.Paper Formatting: Follow the formatting guidelines provided by the conference. Use the provided template or style file to ensure consistency. https://www.ieee.org/conferences/publishing/templates.html</li><br>
                         <li>2.Paper Length: Pay attention to the specified page limit for your paper. Ensure that your submission adheres to the required length, including all figures, tables, and references</li><br>
                         <li>3.Title and Abstract: Provide a clear and concise title that accurately reflects the content of your paper. Write an informative abstract that summarizes the objectives, methods, and key findings of your research</li><br>
                         <li>4.Introduction: Begin your paper with an introduction that clearly presents the motivation, problem statement, and objectives of your research. Provide sufficient background information to help readers understand the context of your work</li><br>

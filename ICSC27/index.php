@@ -236,7 +236,8 @@
                         </li>
 
                         <li class="flex flex-col space-y-1">
-                            <h6 class="font-bold text-lg">Call for Papers <span class="text-blue-600 text-sm font-bold ml-2"> COMING SOON </span> </h6> 
+                            <h6 class="font-bold text-lg">Call for Papers</h6> 
+                            <span>For more details please click <a class="text-primary" href="resources/Final Call for Papers_ICSC 2027.pdf" download="Final Call for Papers_ICSC 2027.pdf">HERE</a></span>
                     
                         </li>
 
@@ -282,8 +283,23 @@
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Link to paper submission</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    TO BE UPDATED
+
+                                <td class="rounded text-primary font-bold text-sm md:text-xl flex flex-col items-center gap-3"> 
+                                    
+                                    <img 
+                                    src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://cmt3.research.microsoft.com/ICSC2027" 
+                                    alt="Scan for submission"
+                                    class="border p-2 bg-white rounded"
+                                    >
+
+                                    <span class="text-xs text-gray-600">Scan to submit paper</span>
+
+                                    <a href="https://cmt3.research.microsoft.com/ICSC2027" 
+                                    target="_blank" 
+                                    class="text-red-600 underline hover:text-red-800">
+                                    Click Here
+                                    </a>
+                                    
                                 </td>
                             </tr>
                         </tbody>

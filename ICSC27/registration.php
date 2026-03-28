@@ -76,8 +76,8 @@
                                 </td>
                                 <td> INR 5500</td>
                                 <td> INR 6500</td>
-                                <td> -</td>
-                                <td>-</td>
+                                <td> USD 140</td>
+                                <td> USD 175</td>
                             </tr>
 
                             <tr>
@@ -118,10 +118,10 @@
                                 <td> INR 3000</td>
                                 <td> INR 4000</td>
                                 <td>
-                                    /
+                                    USD 113
                                 </td>
                                 <td>
-                                    /
+                                    USD 140
                                 </td>
                             </tr>
                             <tr>
@@ -133,26 +133,26 @@
                                 <td> INR 2000</td>
                                 <td> INR 2500</td>
                                 <td>
-                                    /
+                                    USD 75
                                 </td>
                                 <td>
-                                    /
+                                    USD 88
                                 </td>
                             </tr>
                             <td class="font-bold">Students <br>
                                 (3 Days Registration)</td>
-                            <td>2500</td>
-                            <td>3500</td>
-                            <td>/</td>
-                            <td>/</td>
+                            <td>INR 2500</td>
+                            <td>INR 3500</td>
+                            <td>USD 64</td>
+                            <td>USD 94</td>
                             </tr>
 
                             <td class="font-bold">Students <br>
                                 (1 Days Registration)</td>
-                            <td>2000</td>
-                            <td>3000</td>
-                            <td>/</td>
-                            <td>/</td>
+                            <td>INR 2000</td>
+                            <td>INR 3000</td>
+                            <td>USD 51</td>
+                            <td>USD 81</td>
                             </tr>
 
                             <tr>
@@ -161,13 +161,13 @@
                                 </td>
                                 <td> INR 11000</td>
                                 <td>
-                                    12000
+                                    INR 12000
                                 </td>
                                 <td>
-                                    /
+                                    USD 413
                                 </td>
                                 <td>
-                                    /
+                                    USD 420
                                 </td>
                             </tr>
                             <!-- <tr>
@@ -365,7 +365,7 @@
                     <span class="text-xl text-justify font-bold my-2">Note:-</span>
                     <br><br>
                     <p class="text-justify my-2">• Swift Copy (Wire transfer advice/MT103) should be sent by email
-                        at <b>fees@jiit.ac.in </b> with a copy to <b>icsc@jiit.ac.in</b> for information of the Institute.</p>
+                        at <b>fees@mail.jiit.ac.in </b> with a copy to <b>icsc@mail.jiit.ac.in</b> for information of the Institute.</p>
                     <p class="text-justify my-2">• All banks charges in foreign and in India, in connection with
                         the remittance will be charged to the account of the Remitter. Any shortage in the
                         prescribed fees amount, on account of bank charges credited to the Institute’s A/c shall be

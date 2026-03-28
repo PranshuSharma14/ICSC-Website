@@ -33,7 +33,7 @@
 
                         <div class="card-body bg-base-200">
                             <div class="card-title bg-base-200">
-                                COMMUNICATION
+                                Communication Engineering
                             </div>
                             <hr>
                             <p>
@@ -79,12 +79,13 @@
                             </ul>
                             </p>
                         </div>
+
                     </div>
 
 
                     <div class="card bg-base-200 border-2 my-5 lg:mx-5 lg:p-5">
                         <div class="card-body bg-base-200">
-                            <div class="card-title bg-base-200">SIGNAL PROCESSING</div>
+                            <div class="card-title bg-base-200">Signal Processing</div>
                             <hr>
                             <p>
                             <ul class="list-disc">
@@ -219,6 +220,80 @@
                     </div>
 
 
+                     <div class="card bg-base-200 border-2 my-5 lg:mx-5 lg:p-5">
+                        <div class="card-body bg-base-200">
+                            <div class="card-title bg-base-200">Sustainable Energy Systems</div>
+                            <hr>
+                            <p>
+                            <ul class="list-disc">
+                                <li> Development and integration of renewable energy sources</li>
+                                <li>Design and optimization of smart grids and microgrids </li>
+                                <li>Energy storage technologies</li>
+                                <li>Electric vehicle (EV) integration in modern power systems</li>
+                                <li>Energy efficiency and conservation techniques in industrial, residential, and commercial sectors</li>
+                                <li>Application of power electronics in renewable energy conversion and control</li>
+                                <li>Grid integration challenges of intermittent renewable energy sources </li>
+                                <li>Energy management systems (EMS) and demand-side management strategies </li>
+                                <li>Use of artificial intelligence and IoT in energy forecasting, monitoring, and optimization</li>
+                                <li>Life Cycle Assessment (LCA) and environmental impact analysis of energy systems</li>
+                                <li>Carbon footprint reduction and decarbonization strategies</li>
+                                <li>Policies, regulations, and economic aspects of sustainable energy systems </li>
+                                <li>Hybrid energy systems combining multiple renewable sources </li>
+                                <li>Role of green hydrogen and fuel cells in future energy systems</li>
+                                <li>Distributed generation systems and decentralized energy architectures</li>
+                                <li>Resilience and reliability enhancement of power systems under climate change impacts </li>
+                                <li>Advanced forecasting techniques for renewable energy generation (solar/wind prediction) Signal Processing for Communications</li>
+                                <li>Waste-to-energy technologies and circular economy approaches in energy systems</li>
+                                <li>Thermal energy systems including solar thermal and waste heat recovery</li>
+                                <li>Role of digital twins in modeling and optimization of energy systems </li>
+                                <li>Rural electrification using off-grid and mini-grid renewable solutions</li>
+                                <li>Development of sustainable cooling and heating technologies</li>
+                                <li>Design of wearable health monitoring systems</li>
+                                <li>Artificial intelligence and machine learning in healthcare diagnostics</li>
+                            </ul>
+                            </p>
+                        </div>
+
+                    </div>
+
+                     <div class="card bg-base-200 border-2 my-5 lg:mx-5 lg:p-5">
+                        <div class="card-body bg-base-200">
+                            <div class="card-title bg-base-200">Human-Centric Assistive Technologies and Intelligent Robotics</div>
+                            <hr>
+                            <p>
+                            <ul class="list-disc">
+                                <li> Wearable Assistive Electronics and Smart Prosthetics</li>
+                                <li>AI-Driven Rehabilitation Robotics Systems</li>
+                                <li>Human–Robot Interaction (HRI) and Collaboration</li>
+                                <li>Embedded Intelligence for Assistive Devices</li>
+                                <li>Edge AI Hardware for Real-Time Robotics</li>
+                                <li>Sensor Fusion for Human Motion and Activity Recognition</li>
+                                <li>Biomedical Signal Processing for Assistive Applications</li>
+                                <li>Robotic Exoskeletons for Mobility Enhancement</li>
+                                <li>Vision-Based Navigation for Assistive Robots</li>
+                                <li>Voice-Controlled and Multimodal Assistive Interfaces</li>
+                                <li>Brain–Computer Interface (BCI) Enabled Assistive Systems</li>
+                                <li>Autonomous Service Robots for Healthcare and Elderly Care</li>
+                                <li>Smart Wheelchairs and Intelligent Mobility Platforms</li>
+                                <li>Tactile Sensing and Haptic Feedback Systems</li>
+                                <li>AI Accelerators for Robotics and Human Assistance</li>
+                                <li>Neuromorphic Hardware for Adaptive Robotics</li>
+                                <li>Low-Power VLSI Architectures for Assistive Intelligence</li>
+                                <li>Energy-Efficient Sensor Nodes for Wearable Robotics</li>
+                                <li>Digital Twin and Simulation for Human-Centric Robotics</li>
+                                <li>Robotics for Inclusive Education and Learning Support</li>
+                                <li>Assistive Technologies for Speech and Hearing Impairments</li>
+                                <li>Emotion-Aware and Cognitive Assistive Systems</li>
+                                <li>Safety, Reliability, and Ethical AI in Human Assistance</li>
+                                <li>Secure Hardware and Privacy in Assistive Robotics</li>
+                                <li>Semiconductor Devices and Smart Sensors for Human-Centric Systems</li>
+                            </ul>
+                            </p>
+                        </div>
+
+                    </div>
+
+
 
                     <p>
                         Papers will be reviewed by renowned experts in their field and those selected will be called for
@@ -226,8 +301,8 @@
                         relevance and significance.
                         <br>
                         <br>
-                        Authors should submit their papers online at : <b>COMING SOON</b>
-                         <!-- <a href="https://edas.info/N31246" target="_blank" class="underline dark: font-bold">EDAS</a> -->
+                        Authors should submit their papers online at :
+                         <a href="https://cmt3.research.microsoft.com/ICSC2027" target="_blank" class="underline dark: font-bold text-red-500">Click To Submit Papers</a>
 
                     </p>
 

@@ -60,7 +60,7 @@
                 <h2 class="text-3xl font-bold mt-12">Tracks</h2>
                 <br>
 
-                <p><strong>Track 1: Communication</strong><br>
+                <p><strong>Track 1: Communication Engineering</strong><br>
                     Covers advancements in wireless, optical, satellite, and mobile communication systems. Topics include network protocols, information theory, coding techniques, MIMO systems, 5G/6G technologies, cognitive radio, IoT communication frameworks, and next-generation networking solutions.
                 </p>
                 <br>
