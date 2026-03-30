@@ -5,19 +5,38 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ICSC 2027 Conference</title>
 
+    <!-- SEO Title -->
+    <title>ICSC 2027 | International Conference on Signal Processing and Communication</title>
 
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="ICSC 2027 - 11th International Conference on Signal Processing and Communication at JIIT Noida, India. Submit papers, view committee, speakers, and more.">
+    <meta name="keywords" content="ICSC 2027, Signal Processing Conference, Communication Conference, IEEE Conference, JIIT Noida">
+    <meta name="author" content="JIIT Noida">
+
+    <!-- Open Graph (for social sharing) -->
+    <meta property="og:title" content="ICSC 2027 Conference">
+    <meta property="og:description" content="International Conference on Signal Processing and Communication at JIIT Noida">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jiit.ac.in/jiit/ICSC/">
+
+    <!-- Tailwind -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+    <!-- Owl Carousel -->
     <link href="path/to/owl.carousel.css" rel="stylesheet">
     <link href="path/to/owl.theme.default.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
     <link href="styles/home.css" rel="stylesheet">
 
-
-
+    <!-- Alpine JS -->
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+    <!-- PHP Includes -->
     <?php include 'includes.php' ?>
 </head>
+
 <style>
     
 
@@ -273,7 +292,7 @@
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Accepted Paper Registration Date</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">16 September 2026</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">23 September 2026</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Final Paper(Camera Ready) submission Date</td>
