@@ -127,7 +127,7 @@
 
                         <div class="card-body bg-base-200">
                             <div class="card-title bg-base-200">
-                                VLSI Technology and Embedded Systems
+                                VLSI Tech. & and Embedded Systems
                             </div>
                             <hr>
                             <p>

@@ -70,7 +70,7 @@
                 </p>
                 <br>
 
-                <p><strong>Track 3: VLSI and Embedded Technology</strong><br>
+                <p><strong>Track 3: VLSI Tech. & Embedded Systems</strong><br>
                     Encompasses VLSI design methodologies, SoC architectures, FPGA-based systems, ASIC design, embedded platforms, hardware security, testing and verification, low-power design, and hardware accelerators.
                 </p>
                 <br>
