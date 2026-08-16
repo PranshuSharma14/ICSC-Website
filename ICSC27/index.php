@@ -283,21 +283,21 @@
                             <tr>
                                 <td class="text-sm md:text-xl">Paper Submission</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    16 August 2026
+                                    16 September 2026
                                 </td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Notification of acceptance</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">16 September 2026</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">16 October 2026</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Accepted Paper Registration Date</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">23 September 2026</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">23 October 2026</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Final Paper(Camera Ready) submission Date</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    1 October 2026
+                                    30 October 2026
                                 </td>
                             </tr>
                             <tr>
