@@ -283,7 +283,7 @@
                             <tr>
                                 <td class="text-sm md:text-xl">Paper Submission</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    5 October 2026
+                                    15 October 2026
                                 </td>
                             </tr>
                             <tr>
